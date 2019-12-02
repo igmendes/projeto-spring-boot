@@ -8,6 +8,7 @@ public class MeuPromeiroPojetoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MeuPromeiroPojetoApplication.class, args);
+		System.out.println("Primeiro teste com o projeto");
 	}	
 
 }
